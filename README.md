@@ -1,10 +1,11 @@
 # PasswordGnr8r
 
 
-```bash
-This is a password generator! It can generate a password using letters, numbers, and special characters. It allows you to create a password ranging from 8 characters to 128 characters. 
 
-```
+This is a password generator! It can generate a password using letters, numbers, and special characters. 
+It allows you to create a password ranging from 8 characters to 128 characters. 
+
+
 # Active Site
 
 ```bash
