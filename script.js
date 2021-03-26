@@ -19,7 +19,6 @@ function generatePassword() {
 
   var confirmChar = (prompt("How long would you like your password to be?\n You can choose from 8-128 characters."));
     for ( var i= 128; i < confirmChar;) {
-      if (confirmChar = lCase) 
       alert("Sorry! Your password can only have 128 characters.");
       return;
     }
